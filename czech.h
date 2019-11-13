@@ -2,7 +2,7 @@
 #define když if
 #define plav float
 #define číslo int
-
+#define dvojitý double
 
 // stdio
 #define smaž(x) remove(x)
